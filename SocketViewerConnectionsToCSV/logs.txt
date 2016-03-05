@@ -1,0 +1,271 @@
+2/22/2016 11:01:11 PM: Listening for more connections... 
+
+2/24/2016 12:24:30 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\CoOdy_2073.txt Changed
+
+2/24/2016 12:24:30 AM: Successfully matched ID in changed file: CoOdy_2073
+
+2/24/2016 12:24:30 AM: Looking for streams that match the following ID: CoOdy_2073
+
+2/24/2016 12:24:30 AM: 0 streams match the given ID
+
+2/24/2016 12:24:30 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\CoOdy_2073.txt Changed
+
+2/24/2016 12:24:30 AM: Successfully matched ID in changed file: CoOdy_2073
+
+2/24/2016 12:24:30 AM: Looking for streams that match the following ID: CoOdy_2073
+
+2/24/2016 12:24:30 AM: 0 streams match the given ID
+
+2/24/2016 12:24:30 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\CoOdy_2073.txt Changed
+
+2/24/2016 12:24:30 AM: Successfully matched ID in changed file: CoOdy_2073
+
+2/24/2016 12:24:30 AM: Looking for streams that match the following ID: CoOdy_2073
+
+2/24/2016 12:24:30 AM: 0 streams match the given ID
+
+2/24/2016 12:24:51 AM: Connected to 54.173.116.34:49782
+
+2/24/2016 12:24:51 AM: Starting client listener thread...
+
+2/24/2016 12:24:51 AM: Listening for more connections... 
+
+2/24/2016 12:24:51 AM: Received the following data from client at 54.173.116.34:49782 with ID CoOdy_2073:
+
+2/24/2016 12:24:51 AM: CoOdy_2073
+
+2/24/2016 12:24:51 AM: Sending the following data to client at 54.173.116.34:49782 with ID CoOdy_2073:
+
+2/24/2016 12:24:51 AM: {"id":"CoOdy_2073","current_camera":"default","furniture_enabled":"no","elevation":"ElevA","veneer":"Stucco","garage":"EnlGarage","windows":"CSW_Off","deck":"StdPatio","kitchen_pop":"Pop1_Off","greatroom_pop":"Pop2_Off","greatroom_entertainment":"GRFP_Off","flexspace":"Flex_Std","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Std"}
+
+2/24/2016 12:24:59 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\CoOdy_2073.txt Changed
+
+2/24/2016 12:24:59 AM: Successfully matched ID in changed file: CoOdy_2073
+
+2/24/2016 12:24:59 AM: Looking for streams that match the following ID: CoOdy_2073
+
+2/24/2016 12:24:59 AM: 1 streams match the given ID
+
+2/24/2016 12:24:59 AM: Sending content to client #0
+
+2/24/2016 12:24:59 AM: Sending the following data to client at 54.173.116.34:49782 with ID CoOdy_2073:
+
+2/24/2016 12:24:59 AM: {"id":"CoOdy_2073","elevation":"ElevA","veneer":"Brick","garage":"EnlGarage","windows":"CSW_Off","deck":"StdPatio","kitchen_pop":"Pop1_Off","greatroom_pop":"Pop2_Off","greatroom_entertainment":"GRFP_Off","flexspace":"Flex_Std","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Std","last_modified":"2016-02-24T00:24:30+0000","current_camera":"default","furniture_enabled":"no"}
+
+2/24/2016 12:24:59 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\CoOdy_2073.txt Changed
+
+2/24/2016 12:24:59 AM: Successfully matched ID in changed file: CoOdy_2073
+
+2/24/2016 12:24:59 AM: Looking for streams that match the following ID: CoOdy_2073
+
+2/24/2016 12:24:59 AM: 1 streams match the given ID
+
+2/24/2016 12:24:59 AM: Sending content to client #0
+
+2/24/2016 12:24:59 AM: Sending the following data to client at 54.173.116.34:49782 with ID CoOdy_2073:
+
+2/24/2016 12:24:59 AM: {"id":"CoOdy_2073","elevation":"ElevA","veneer":"Brick","garage":"EnlGarage","windows":"CSW_Off","deck":"StdPatio","kitchen_pop":"Pop1_Off","greatroom_pop":"Pop2_Off","greatroom_entertainment":"GRFP_Off","flexspace":"Flex_Std","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Std","last_modified":"2016-02-24T00:24:30+0000","current_camera":"default","furniture_enabled":"no"}
+
+2/24/2016 12:25:03 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\CoOdy_2073.txt Changed
+
+2/24/2016 12:25:03 AM: Successfully matched ID in changed file: CoOdy_2073
+
+2/24/2016 12:25:03 AM: Looking for streams that match the following ID: CoOdy_2073
+
+2/24/2016 12:25:03 AM: 1 streams match the given ID
+
+2/24/2016 12:25:03 AM: Sending content to client #0
+
+2/24/2016 12:25:03 AM: Sending the following data to client at 54.173.116.34:49782 with ID CoOdy_2073:
+
+2/24/2016 12:25:03 AM: {"id":"CoOdy_2073","elevation":"ElevA","veneer":"Brick","garage":"EnlGarage","windows":"CSW_Off","deck":"StdPatio","kitchen_pop":"Pop1_Off","greatroom_pop":"Pop2_Off","greatroom_entertainment":"GRFP_Off","flexspace":"Flex_Std","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Std","last_modified":"2016-02-24T00:24:59+0000","current_camera":"cam_Veneer_01","furniture_enabled":"no"}
+
+2/24/2016 12:25:03 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\CoOdy_2073.txt Changed
+
+2/24/2016 12:25:03 AM: Successfully matched ID in changed file: CoOdy_2073
+
+2/24/2016 12:25:03 AM: Looking for streams that match the following ID: CoOdy_2073
+
+2/24/2016 12:25:03 AM: 1 streams match the given ID
+
+2/24/2016 12:25:03 AM: Sending content to client #0
+
+2/24/2016 12:25:03 AM: Sending the following data to client at 54.173.116.34:49782 with ID CoOdy_2073:
+
+2/24/2016 12:25:03 AM: {"id":"CoOdy_2073","elevation":"ElevA","veneer":"Brick","garage":"EnlGarage","windows":"CSW_Off","deck":"StdPatio","kitchen_pop":"Pop1_Off","greatroom_pop":"Pop2_Off","greatroom_entertainment":"GRFP_Off","flexspace":"Flex_Std","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Std","last_modified":"2016-02-24T00:24:59+0000","current_camera":"cam_Veneer_01","furniture_enabled":"no"}
+
+2/24/2016 12:25:05 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\CoOdy_2073.txt Changed
+
+2/24/2016 12:25:05 AM: Successfully matched ID in changed file: CoOdy_2073
+
+2/24/2016 12:25:05 AM: Looking for streams that match the following ID: CoOdy_2073
+
+2/24/2016 12:25:05 AM: 1 streams match the given ID
+
+2/24/2016 12:25:05 AM: Sending content to client #0
+
+2/24/2016 12:25:05 AM: Sending the following data to client at 54.173.116.34:49782 with ID CoOdy_2073:
+
+2/24/2016 12:25:05 AM: {"id":"CoOdy_2073","elevation":"ElevA","veneer":"Brick","garage":"EnlGarage","windows":"CSW_Off","deck":"StdPatio","kitchen_pop":"Pop1_Off","greatroom_pop":"Pop2_Off","greatroom_entertainment":"GRFP_Off","flexspace":"Flex_Std","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Std","last_modified":"2016-02-24T00:25:03+0000","current_camera":"cam_Veneer_02","furniture_enabled":"no"}
+
+2/24/2016 12:25:05 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\CoOdy_2073.txt Changed
+
+2/24/2016 12:25:05 AM: Successfully matched ID in changed file: CoOdy_2073
+
+2/24/2016 12:25:05 AM: Looking for streams that match the following ID: CoOdy_2073
+
+2/24/2016 12:25:05 AM: 1 streams match the given ID
+
+2/24/2016 12:25:05 AM: Sending content to client #0
+
+2/24/2016 12:25:05 AM: Sending the following data to client at 54.173.116.34:49782 with ID CoOdy_2073:
+
+2/24/2016 12:25:05 AM: {"id":"CoOdy_2073","elevation":"ElevA","veneer":"Brick","garage":"EnlGarage","windows":"CSW_Off","deck":"StdPatio","kitchen_pop":"Pop1_Off","greatroom_pop":"Pop2_Off","greatroom_entertainment":"GRFP_Off","flexspace":"Flex_Std","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Std","last_modified":"2016-02-24T00:25:03+0000","current_camera":"cam_Veneer_02","furniture_enabled":"no"}
+
+2/24/2016 12:26:11 AM: Client has disconnected or exceeded timeout of 3600000 milliseconds.
+
+2/24/2016 12:26:11 AM: Received the following data from client at 54.173.116.34:49782 with ID CoOdy_2073:
+
+2/24/2016 12:26:11 AM: CoOdy_2073
+
+2/24/2016 12:27:56 AM: Connected to 54.173.116.34:49797
+
+2/24/2016 12:27:56 AM: Starting client listener thread...
+
+2/24/2016 12:27:56 AM: Listening for more connections... 
+
+2/24/2016 12:27:56 AM: Received the following data from client at 54.173.116.34:49797 with ID _2073:
+
+2/24/2016 12:27:56 AM: _2073
+
+2/24/2016 12:27:56 AM: Sending the following data to client at 54.173.116.34:49797 with ID _2073:
+
+2/24/2016 12:27:56 AM: {"id":"_2073","elevation":"ElevD","veneer":"Stone","garage":"EnlGarage","windows":"CSW_On","deck":"EnlPatio","kitchen_pop":"Pop1_On","greatroom_pop":"Pop2_On","greatroom_entertainment":"GRFP_MC2","flexspace":"Flex_Study","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Bed4","last_modified":"2016-02-11T20:10:27+0000","current_camera":"cam_Elevation_01","furniture_enabled":"yes"}
+
+2/24/2016 12:29:06 AM: Client has disconnected or exceeded timeout of 3600000 milliseconds.
+
+2/24/2016 12:29:06 AM: Received the following data from client at 54.173.116.34:49797 with ID _2073:
+
+2/24/2016 12:29:06 AM: _2073
+
+2/24/2016 12:30:46 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\_2073.txt Changed
+
+2/24/2016 12:30:46 AM: Successfully matched ID in changed file: _2073
+
+2/24/2016 12:30:46 AM: Looking for streams that match the following ID: _2073
+
+2/24/2016 12:30:46 AM: 1 streams match the given ID
+
+2/24/2016 12:30:46 AM: Closing connection with unresponsive client #0
+
+2/24/2016 12:30:46 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\_2073.txt Changed
+
+2/24/2016 12:30:46 AM: Successfully matched ID in changed file: _2073
+
+2/24/2016 12:30:46 AM: Looking for streams that match the following ID: _2073
+
+2/24/2016 12:30:46 AM: 0 streams match the given ID
+
+2/24/2016 12:31:03 AM: Connected to 54.173.116.34:49813
+
+2/24/2016 12:31:03 AM: Starting client listener thread...
+
+2/24/2016 12:31:03 AM: Listening for more connections... 
+
+2/24/2016 12:31:03 AM: Received the following data from client at 54.173.116.34:49813 with ID _2073:
+
+2/24/2016 12:31:03 AM: _2073
+
+2/24/2016 12:31:03 AM: Sending the following data to client at 54.173.116.34:49813 with ID _2073:
+
+2/24/2016 12:31:03 AM: {"id":"_2073","current_camera":"cam_Elevation_01","furniture_enabled":"yes","elevation":"ElevD","veneer":"Stone","garage":"EnlGarage","windows":"CSW_On","deck":"EnlPatio","kitchen_pop":"Pop1_On","greatroom_pop":"Pop2_On","greatroom_entertainment":"GRFP_MC2","flexspace":"Flex_Study","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Bed4"}
+
+2/24/2016 12:31:06 AM: Connected to 52.91.144.39:49452
+
+2/24/2016 12:31:06 AM: Starting client listener thread...
+
+2/24/2016 12:31:06 AM: Listening for more connections... 
+
+2/24/2016 12:31:06 AM: Received the following data from client at 52.91.144.39:49452 with ID _2073:
+
+2/24/2016 12:31:06 AM: _2073
+
+2/24/2016 12:31:06 AM: Sending the following data to client at 52.91.144.39:49452 with ID _2073:
+
+2/24/2016 12:31:06 AM: {"id":"_2073","current_camera":"cam_Elevation_01","furniture_enabled":"yes","elevation":"ElevD","veneer":"Stone","garage":"EnlGarage","windows":"CSW_On","deck":"EnlPatio","kitchen_pop":"Pop1_On","greatroom_pop":"Pop2_On","greatroom_entertainment":"GRFP_MC2","flexspace":"Flex_Study","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Bed4"}
+
+2/24/2016 12:31:20 AM: Client has disconnected or exceeded timeout of 3600000 milliseconds.
+
+2/24/2016 12:31:20 AM: Received the following data from client at 52.91.144.39:49452 with ID _2073:
+
+2/24/2016 12:31:20 AM: _2073
+
+2/24/2016 12:32:16 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\mike_2073.txt Changed
+
+2/24/2016 12:32:16 AM: Successfully matched ID in changed file: mike_2073
+
+2/24/2016 12:32:16 AM: Looking for streams that match the following ID: mike_2073
+
+2/24/2016 12:32:16 AM: 0 streams match the given ID
+
+2/24/2016 12:32:16 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\mike_2073.txt Changed
+
+2/24/2016 12:32:16 AM: Successfully matched ID in changed file: mike_2073
+
+2/24/2016 12:32:16 AM: Looking for streams that match the following ID: mike_2073
+
+2/24/2016 12:32:16 AM: 0 streams match the given ID
+
+2/24/2016 12:32:16 AM: File has been changed: C:\inetpub\siteroot\de3d\src\tableUpdates\mike_2073.txt Changed
+
+2/24/2016 12:32:16 AM: Successfully matched ID in changed file: mike_2073
+
+2/24/2016 12:32:16 AM: Looking for streams that match the following ID: mike_2073
+
+2/24/2016 12:32:16 AM: 0 streams match the given ID
+
+2/24/2016 12:32:35 AM: Connected to 52.91.144.39:49467
+
+2/24/2016 12:32:35 AM: Starting client listener thread...
+
+2/24/2016 12:32:35 AM: Listening for more connections... 
+
+2/24/2016 12:32:35 AM: Received the following data from client at 52.91.144.39:49467 with ID mike_2073:
+
+2/24/2016 12:32:35 AM: mike_2073
+
+2/24/2016 12:32:35 AM: Sending the following data to client at 52.91.144.39:49467 with ID mike_2073:
+
+2/24/2016 12:32:35 AM: {"id":"mike_2073","current_camera":"default","furniture_enabled":"no","elevation":"ElevA","veneer":"Stucco","garage":"EnlGarage","windows":"CSW_Off","deck":"StdPatio","kitchen_pop":"Pop1_Off","greatroom_pop":"Pop2_Off","greatroom_entertainment":"GRFP_Off","flexspace":"Flex_Std","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Std"}
+
+2/24/2016 12:32:55 AM: Client has disconnected or exceeded timeout of 3600000 milliseconds.
+
+2/24/2016 12:32:55 AM: Received the following data from client at 54.173.116.34:49813 with ID _2073:
+
+2/24/2016 12:32:55 AM: _2073
+
+2/24/2016 12:34:13 AM: Client has disconnected or exceeded timeout of 3600000 milliseconds.
+
+2/24/2016 12:34:13 AM: Received the following data from client at 52.91.144.39:49467 with ID mike_2073:
+
+2/24/2016 12:34:13 AM: mike_2073
+
+2/24/2016 5:13:00 PM: Connected to 54.173.75.155:49502
+
+2/24/2016 5:13:00 PM: Starting client listener thread...
+
+2/24/2016 5:13:00 PM: Listening for more connections... 
+
+2/24/2016 5:13:00 PM: Received the following data from client at 54.173.75.155:49502 with ID _2073:
+
+2/24/2016 5:13:00 PM: _2073
+
+2/24/2016 5:13:00 PM: Sending the following data to client at 54.173.75.155:49502 with ID _2073:
+
+2/24/2016 5:13:00 PM: {"id":"_2073","current_camera":"cam_Elevation_01","furniture_enabled":"yes","elevation":"ElevD","veneer":"Stone","garage":"EnlGarage","windows":"CSW_On","deck":"EnlPatio","kitchen_pop":"Pop1_On","greatroom_pop":"Pop2_On","greatroom_entertainment":"GRFP_MC2","flexspace":"Flex_Study","mastersuite_fp":"MSFP_Off","bonusspace":"Bonus_Bed4"}
+
+2/24/2016 5:15:44 PM: Client has disconnected or exceeded timeout of 3600000 milliseconds.
+
+2/24/2016 5:15:44 PM: Received the following data from client at 54.173.75.155:49502 with ID _2073:
+
+2/24/2016 5:15:44 PM: _2073
